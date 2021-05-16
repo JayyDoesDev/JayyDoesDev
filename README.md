@@ -4,7 +4,7 @@ I code stuff.......and uh yea that's nice i guess
 
 ## Projects
 
-[Anti-Bot](https://docs.antibot.xyz) | [JLJ Development](https://dev.amtibot.xyz/support)
+[Anti-Bot](https://docs.antibot.xyz) | [JLJ Development](https://dev.antibot.xyz/support)
 
 ## Github Stats
 
