@@ -1,5 +1,5 @@
-### Hi there 👋
-I code stuff.......and uh yea that's nice i guess. I also make Discord bots and uh yea that's cool. 
+### Hi there I'm J_DDev 👋
+I am Backend Developer studying Computer Science and Engineering. On my free time I make bots on different platforms (Mainly Discord). I am also a Verified Bot Developer and I also like to work with friends on projects. 
 
 
 ## Projects
