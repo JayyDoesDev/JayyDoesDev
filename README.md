@@ -4,7 +4,7 @@ I am a Backend Developer studying Computer Science and Engineering. On my free t
 
 ## Projects
 
-[Anti-Bot](https://docs.antibot.xyz) | [Vultrex Development](https://dev.antibot.xyz/support)
+[Anti-Bot](https://docs.antibot.xyz) | [Vultrex Development](https://vultrex.tech)
 
 ## Github Stats
 
