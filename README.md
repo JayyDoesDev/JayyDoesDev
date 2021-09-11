@@ -6,7 +6,7 @@ I am a Backend Developer studying Computer Science and Engineering. On my free t
 
 ## Projects
 
-[Anti-Bot](https://docs.antibot.xyz) | [Vultrex Development](https://vultrex.tech) | [School Homework](https://jdevelo.github.io/homework/)
+[Anti-Bot](https://docs.antibot.xyz) | [Vultrex Development](https://vultrex.tech) | [Website](https://jddev.live) | [School Homework](https://jdevelo.github.io/homework/) 
 
 ## Github Stats
 
