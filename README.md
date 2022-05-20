@@ -15,7 +15,7 @@ I am a Backend Developer studying Computer Science and Engineering. On my free t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayyDoesDev&layout=compact)]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jayydoesdev&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jayydoesdev&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
