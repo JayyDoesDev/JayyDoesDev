@@ -6,7 +6,7 @@ I am a Backend Developer studying Computer Science and Engineering. On my free t
 
 ## Projects
 
-[Anti-Bot](https://antibot.xyz) | [Vultrex Development](https://vultrex.dev) | [Website](https://jaydoesdev.com)
+[Anti-Bot](https://antibot.xyz) | [Zygote](https://zyte.cloud) | [Vultrex Development](https://vultrex.dev) | [Website](https://jaydoesdev.com)
 
 ## Github Stats
 
