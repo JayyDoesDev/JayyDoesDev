@@ -1,5 +1,3 @@
-<img src="https://github.com/JayyDoesDev/JayyDoesDev/blob/main/typingerror.gif?raw=true" style="width: 480px;">
-
 # Hi there I'm J_DDev 👋
 I am Backend Developer! Just a computer science student doing my thing!
 
