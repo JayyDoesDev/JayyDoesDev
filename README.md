@@ -1,7 +1,7 @@
-### Hi there I'm J_DDev 👋
-I am a Backend Developer studying Computer Science and Engineering. On my free time I make bots on different platforms (Mainly Discord). I am also a Verified Bot Developer and I also like to work with friends on projects. 
+<img src="https://github.com/JayyDoesDev/JayyDoesDev/blob/main/typingerror.gif?raw=true" style="width: 480px;">
 
-(I also put my homework on here)
+# Hi there I'm J_DDev 👋
+I am Backend Developer! Just a computer science student doing my thing!
 
 
 ## Projects
