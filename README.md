@@ -4,7 +4,7 @@ I am Backend Developer! Just a computer science student doing my thing!
 
 ## Projects
 
-[Anti-Bot](https://antibot.xyz) | [Zygote](https://zyte.cloud) | [Discord User Checker](https://duc.jddev.wtf) | [Vultrex Development](https://vultrex.dev) | [Website](https://jaydoesdev.com)
+[Anti-Bot](https://antibot.xyz) | [Zygote](https://zyte.cloud) | [Discord User Checker](https://duc.jddev.wtf) | [Vultrex Development](https://vultrex.dev) 
 
 ## Github Stats
 
