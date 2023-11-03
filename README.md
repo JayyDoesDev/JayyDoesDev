@@ -14,6 +14,8 @@ I am Backend Developer! Just a computer science student doing my thing!
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img aligh="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jayydoesdev&mode=weekly&background=2C2F33&stroke=7289DA&ring=7289DA&sideNums=7289DA&sideLabels=7289DA&currStreakNum=7289DA&fire=FFFFFF&currStreakLabel=7289DA&dates=7289DA&border=2C2F33">
 
+## Github Trophies
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" height="180em" src="https://github-profile-trophy.vercel.app/?username=JayyDoesDev&theme=discord" /> 
 
 
 
