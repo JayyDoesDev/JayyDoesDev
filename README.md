@@ -8,7 +8,7 @@ I am Backend Developer! Just a computer science student doing my thing!
 
 ## Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-six-sigma.vercel.app/api/top-langs/?username=JayyDoesDev&layout=donut&text_color=7289da&bg_color=2c2f33&ring_color=2C2F33&hide_border=true" /> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-six-sigma.vercel.app/api/top-langs/?username=JayyDoesDev&layout=compact&text_color=7289da&bg_color=2c2f33&ring_color=2C2F33&hide_border=true" /> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="180em" src="https://readme-stats-six-sigma.vercel.app/api?username=JayyDoesDev&show_icons=true&hide_border=true&text_color=7289DA&bg_color=2c2f33&include_all_commits=true&count_private=true" /> 
 
