@@ -1,6 +1,5 @@
 # Hi there I'm Tarab1te 👋
-I am Backend Developer! Just a computer science student doing my thing!
-
+First year college student studying my BS in Computer Science 🧪💻
 
 ## Projects
 
