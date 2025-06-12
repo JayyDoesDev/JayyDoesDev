@@ -1,7 +1,14 @@
 # Hi there I'm Tarab1te 👋
+Current Software Engineering Intern at Charged IT Solutions 
 First year college student studying my BS in Computer Science 🧪💻
 
-## Projects
+- Visited Salesforce, toured the building, and was introduced to the day to day operations at Salesforce
+- Contributed and work on many projects for thousands of users
+- Developed and still developing an app to help teachers with content mangement
+- Former Club Officer of the computer science club at my school to help promote computer science
+- Scaled and combined with multiple Discord bots to over 4,000 clients and over 1.3 million standing users
+
+## Popular Projects
 
 [Anti-Bot](https://antibot.xyz) | [Alt Detector](https://alt-detector.tb1.pw/) | [Zygote](https://zyte.cloud) | [Discord User Checker](https://duc.jddev.wtf) | [Vultrex Development](https://vultrex.dev) 
 
