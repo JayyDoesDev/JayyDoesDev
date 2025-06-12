@@ -1,8 +1,9 @@
 # Hi there I'm Tarab1te 👋
-Current Software Engineering Intern at Charged IT Solutions 
 
 First year college student studying my BS in Computer Science 🧪💻
 
+
+- Software Engineering Intern at Charged IT Solutions 
 - Visited Salesforce, toured the building, and was introduced to the day to day operations at Salesforce
 - Contributed and work on many projects for thousands of users
 - Developed and still developing an app to help teachers with content mangement
