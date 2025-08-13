@@ -8,7 +8,7 @@ First year college student studying my BS in Computer Science 🧪💻
 - Contributed and work on many projects for thousands of users
 - Developed and still developing an app to help teachers with content mangement
 - Former Club Officer of the computer science club at my school to help promote computer science
-- Scaled and combined with multiple Discord bots to over 4,000 clients and over 2.1 million standing users
+- Scaled and combine with multiple Discord bots to over 4,000 clients and over 2.1 million standing users
 
 ## Popular Projects
 
