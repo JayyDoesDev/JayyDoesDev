@@ -10,7 +10,7 @@ First year college student studying my BS in Computer Science 🧪💻
 
 ## Popular Projects
 
-[Anti-Bot](https://antibot.xyz) | [Alt Detector](https://alt-detector.tb1.pw/) | [Japser](https://github.com/jayydoesdev/jasper) | [Vultrex Development](https://vultrex.dev) 
+[Anti-Bot](https://anti.vdev.bot) | [Alt Detector](https://alt.vdev.bot) | [Japser](https://github.com/jayydoesdev/jasper) | [Vultrex Development](https://vultrex.dev) 
 
 ## Github Stats
 
