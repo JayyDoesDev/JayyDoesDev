@@ -1,6 +1,6 @@
 # Hi there I'm Tarab1te 👋
 
-First year college student studying my BS in Computer Science 🧪💻
+Second year college student studying my BS in Computer Science 🧪💻
 
 - Visited Salesforce, toured the building, and was introduced to the day to day operations at Salesforce
 - Contributed and work on many projects for thousands of users
